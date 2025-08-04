@@ -11,3 +11,5 @@ Comparação entre rendimento com e sem juros
 Simulação personalizada por período (em meses)
 
 Botão "Limpar" para reiniciar os cálculos facilmente
+<img width="1600" height="704" alt="image" src="https://github.com/user-attachments/assets/f552136d-5d52-4d64-9a52-1aa08a9c288f" />
+
